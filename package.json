@@ -1,0 +1,22 @@
+{
+  "name": "chupashadows",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chupakabrito/chupashadows.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "El Chupakabrito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chupakabrito/chupashadows/issues"
+  },
+  "homepage": "https://github.com/chupakabrito/chupashadows#readme"
+}
